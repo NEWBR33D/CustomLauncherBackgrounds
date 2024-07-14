@@ -1,10 +1,10 @@
 {
     "name": "CustomLauncherBackgrounds",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "main": "src/CLBMain.js",
     "license": "MIT License",
     "author": "PreyToLive",
-    "akiVersion": "~3.8",
+    "sptVersion": "~3.9",
     "scripts": {
         "setup:environment": "npm i",
         "build:compile": "tsc",
